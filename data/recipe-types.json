@@ -1,0 +1,26 @@
+{
+  "repository": "ai-video-understanding-recipes",
+  "recipe_types": [
+    {
+      "name": "scene_analysis",
+      "primary_use": "Map a long video into timestamped scenes before editing.",
+      "outputs": ["scene_table", "visual_cues", "dialogue_cues", "clip_potential"]
+    },
+    {
+      "name": "narrative_extraction",
+      "primary_use": "Identify story beats for recap, trailer, or drama compression workflows.",
+      "outputs": ["beat_map", "character_goal", "conflict", "resolution", "continuity_warnings"]
+    },
+    {
+      "name": "highlight_mining",
+      "primary_use": "Find short-form clip candidates from sports, gaming, podcasts, or live streams.",
+      "outputs": ["clip_candidates", "hook_notes", "platform_fit", "risk_notes"]
+    },
+    {
+      "name": "repurposing_brief",
+      "primary_use": "Convert video understanding into a multi-platform content plan.",
+      "outputs": ["clip_plan", "caption_notes", "voiceover_notes", "publishing_targets"]
+    }
+  ]
+}
+
