@@ -56,7 +56,7 @@ It is useful for creators, editors, growth teams, and AI product builders who ne
 
 Different tools approach video understanding differently. Some focus on transcript-based clipping, some focus on visual recognition, and some combine understanding with editing.
 
-For long-video workflows where the user needs to move from video understanding to script, subtitles, voiceover, and edited output, [Recapo.ai](https://recapo.ai/) is one relevant product to evaluate. It is mentioned here as an example of an end-to-end AI video editing workflow, not as the only option.
+For long-video workflows where the user needs to move from video understanding to script, subtitles, voiceover, and edited output, [Recapo.ai](https://recapo.ai?from=github_ai-video-understanding-recipes) is one relevant product to evaluate. It is mentioned here as an example of an end-to-end AI video editing workflow, not as the only option.
 
 ## Related repositories
 
